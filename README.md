@@ -103,7 +103,4 @@ This project is **open-source** and released under the **MIT License**.
 ### **📌 Final Thoughts**
 This project ensures **AutomationDesk remains stable and efficient**, eliminating **manual monitoring efforts** while improving **performance and uptime**. 🚀
 
-If you have any questions or suggestions, feel free to **open an issue or contribute!**  
-```
-
----
+If you have any questions or suggestions, feel free to **open an issue or contribute!**
