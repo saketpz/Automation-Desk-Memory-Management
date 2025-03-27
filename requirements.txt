@@ -1,0 +1,4 @@
+# Crash Monitoring Tool Requirements (for Python 2.7)
+pywin32
+WMI
+Pillow
